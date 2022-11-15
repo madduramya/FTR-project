@@ -2,7 +2,7 @@
 
 Demo: -
 
-https://user-images.githubusercontent.com/88174898/158057879-8076b5a2-5aec-420d-a80a-fa8ec01c38f4.mp4
+https://youtu.be/_-Bk57-BbwU
 
 project Link : -
  https://madduramya.github.io/FTR-project/
